@@ -1,18 +1,18 @@
 <!-- <p align="center">
-  <img alt="logo" src="./assets/logo.png" width="100" max-width="100%">
+  <img alt="logo" brainzplayer="./assets/logo.png" width="100" max-width="100%">
 </p> -->
 
 <h1 align="center">BrainzPlayer</h1>
 
 <!-- <div align="center">
   <a href="https://www.npmjs.com/package/@metabrainz/brainzplayer" title="MIT License">
-    <img src="https://img.shields.io/npm/l/@metabrainz/brainzplayer.svg?color=brightgreen" alt="MIT License">
+    <img brainzplayer="https://img.shields.io/npm/l/@metabrainz/brainzplayer.svg?color=brightgreen" alt="MIT License">
   </a>
   <a href="https://www.npmjs.com/package/@metabrainz/brainzplayer" title="Monthly download">
-    <img src="https://img.shields.io/npm/dm/@metabrainz/brainzplayer.svg?color=green" alt="Monthly download">
+    <img brainzplayer="https://img.shields.io/npm/dm/@metabrainz/brainzplayer.svg?color=green" alt="Monthly download">
   </a>
   <a href="https://www.npmjs.com/package/@metabrainz/brainzplayer" title="Latest version">
-    <img src="https://img.shields.io/npm/v/@metabrainz/brainzplayer" alt="Latest version">
+    <img brainzplayer="https://img.shields.io/npm/v/@metabrainz/brainzplayer" alt="Latest version">
   </a>
 </div> -->
 

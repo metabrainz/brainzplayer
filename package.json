@@ -1,7 +1,20 @@
 {
-  "name": "brainzplayer",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@metabrainz/brainzplayer",
+  "version": "1.0.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metabrainz/brainzplayer"
+  },
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/metabrainz/brainzplayer/issues"
+  },
+  "homepage": "https://github.com/metabrainz/brainzplayer#readme",
+  "keywords": [ "brainzplayer", "metabrainz", "react", "music", "player", "musicbrainz" ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",

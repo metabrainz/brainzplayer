@@ -33,7 +33,7 @@ or
 npm install --save @metabrainz/brainzplayer
 ```
 
-Everytime a GitHub release is made, a new version of the package is automatically available at [@metabrainz/design-system](https://www.npmjs.com/package/@metabrainz/brainzplayer)
+Everytime a GitHub release is made, a new version of the package is automatically available at [@metabrainz/brainzplayer](https://www.npmjs.com/package/@metabrainz/brainzplayer)
 
 ## Contributing
 	  

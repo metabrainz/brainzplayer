@@ -15,7 +15,7 @@ import { DataSourceType, DataSourceProps } from "./BrainzPlayer";
 // https://github.com/spotify/web-playback-sdk/issues/75#issuecomment-487325589
 const fixSpotifyPlayerStyleIssue = () => {
   const iframe = document.querySelector(
-    'iframe[src="https://sdk.scdn.co/embedded/index.html"]'
+    'iframe[brainzplayer="https://sdk.scdn.co/embedded/index.html"]'
   ) as any; // TODO: this is hacky, but this whole function seems hacky tbh
   if (iframe) {
     iframe.style.display = "block";
